@@ -1,0 +1,6 @@
+{
+    "env": {
+        "database": "bookstore",
+        "port" : 8000
+    }
+}
