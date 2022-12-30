@@ -23,7 +23,7 @@
     "body-parser": "^1.19.0",
     "chai": "^4.2.0",
     "eslint": "^6.0.1",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "request": "^2.88.0",
     "supertest": "^4.0.2"
   }
